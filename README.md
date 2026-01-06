@@ -25,7 +25,7 @@
 ### 👨‍💻 关于我
 - 👋 大伙儿都叫我 **Tokeii**
 - 🏥 目前就职于某公立医院 → 官方身份「运维工程师」
-- 🔧 真实日常：**修电脑 √** （打印机、HIS 系统、PACS 我全包）
+- 🔧 真实日常：**修电脑 √** 
 
 </td>
 <td valign="top" width="50%">
@@ -43,19 +43,7 @@
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=Tokeii0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokeii0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" />
-
-<!-- 可选：炫酷连击卡 -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tokeii0&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" />
-
-</div>
+<br
 
 <div align="center">
 
