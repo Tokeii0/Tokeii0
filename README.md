@@ -43,8 +43,6 @@
 </tr>
 </table>
 
-<br
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Tokeii0&color=36BCF7&style=flat-square&label=Profile+Views" />
